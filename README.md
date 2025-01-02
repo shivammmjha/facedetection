@@ -29,10 +29,10 @@ This System uses facial recognition technology to record the attendance through 
 
 ### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### Website : https://www.finalproject.in/
+### Website : [Final Project](https://www.finalproject.in/)
 
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
+### 1000 Computer Science Projects : [CS Project in One](https://www.computer-science-project.in/)
 
-### Youtube Implementation Video : https://youtu.be/tLhFaAurhGw
+### Youtube Implementation Video : [View Demo](https://youtu.be/tLhFaAurhGw)
 
 IMP : If you are getting error/problems/queires then Reach me will help you
