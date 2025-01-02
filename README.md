@@ -31,8 +31,8 @@ This System uses facial recognition technology to record the attendance through 
 
 ### Website : [Final Project](https://www.finalproject.in/)
 
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
+### 1000 Computer Science Projects : [CS Project in One](https://www.computer-science-project.in/)
 
-### [YouTube Video: Watch Implementation]https://youtu.be/tLhFaAurhGw
+### Youtube Implementation Video : https://youtu.be/tLhFaAurhGw
 
 IMP : If you are getting error/problems/queires then Reach me will help you
