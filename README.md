@@ -9,7 +9,7 @@ Final Year Face recognition Attendance System Project
 
 ### Abstract 
 
-The management of the attendance can be a great burden on the teachers if it is done by hand. To resolve this problem, smart and auto attendance management system is being utilized. By utilizing this framework, the problem of proxies and students being marked present even though they are not physically present can easily be solved. This system marks the attendance using live video stream. The frames are extracted from video using OpenCV. The main implementation steps used in this type of system are face detection and recognizing the detected face, for which dlib is used. After these, the connection of recognized faces ought to be conceivable by comparing with the database containing student's faces. This model will be a successful technique to manage the attendance of students.
+The management of the attendance can be a great burden on the teachers if it is done by hand. To resolve this problem, smart and auto attendance management system is being utilized. By utilizing this framework, the problem of proxies and students being marked present even though they are not physically present can easily be solved. This system marks the attendance using live video stream. The frames are extracted from video using OpenCV. The main implementation steps used in this type of system are face detection and recognizing the detected face, for which dlib is used. After these, the connection of recognized faces ought to be conceivable by comparing with the database containing student's faces. This project simplifies attendance processes, ensuring accuracy and efficiency.
 
 Live Webcam based Face Attendance System Project through python programming
 
@@ -29,9 +29,9 @@ This System uses facial recognition technology to record the attendance through 
 
 ### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### Website : https://www.finalproject.in/
+### Website : [Final Project](https://www.finalproject.in/)
 
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
+### 1000 Computer Science Projects : [CS Project in One](https://www.computer-science-project.in/)
 
 ### Youtube Implementation Video : https://youtu.be/tLhFaAurhGw
 
